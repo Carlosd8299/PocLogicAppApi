@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocLogicAppApi", "PocLogicAppApi\PocLogicAppApi.csproj", "{2E89CDC6-060B-4868-AC9B-5BF51E320179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E89CDC6-060B-4868-AC9B-5BF51E320179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E89CDC6-060B-4868-AC9B-5BF51E320179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E89CDC6-060B-4868-AC9B-5BF51E320179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E89CDC6-060B-4868-AC9B-5BF51E320179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A034A36-6956-4A78-818F-8B6FDC6114EF}
+	EndGlobalSection
+EndGlobal
